@@ -93,6 +93,7 @@ ngrok http 5000
 ```
 https://dour-nonsufferably-jesica.ngrok-free.dev
 
+(Note: This link is temporary and works only when the server is running.)
 ---
 
 ## 📌 Future Improvements
